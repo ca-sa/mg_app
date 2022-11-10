@@ -1,0 +1,5 @@
+name=test1
+
+cofig_param 
+  {test = 20
+   timp = 2}
